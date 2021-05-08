@@ -25,7 +25,7 @@ COMENTÁRIOS DO ARQUIVO main.py:
 # se opcao for 4, sai do programa
 
 COMENTÁRIOS DO ARQUIVO dataAnalysis.py:
-
+ 
 # importa modulos e pacotes necessarios
 # faz a leitura do arquivo .xlsx e armazena em data
 # Substitui os valores negativo/not_detected e positivo/detected para 0 e 1, respectivamente
